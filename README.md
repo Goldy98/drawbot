@@ -1,7 +1,7 @@
 # discord-drawbot version 1.1
-This is my discord's bot. If you things about an upgrade in **efficiency**, or if you see an **issue**, please tell me. Thanks a lot!
+This is my discord's bot. If you think about an upgrade in **efficiency**, or if you see an **issue**, please tell me. Thanks a lot!
 
-All useful functions have a documentation.
+All useful functions have been documented.
 
 ## files documentation
 At starts, the bot create **3** .json files :
@@ -10,7 +10,7 @@ At starts, the bot create **3** .json files :
 - morpion.json
 
 ### config.json
-This file stocks your bot's **token** and **prefix** like this:
+This file stocks your bot's **token** and **prefix** this way:
 ```json
 {
   "token": "( ͡° ͜ʖ ͡°)",
